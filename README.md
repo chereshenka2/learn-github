@@ -1,8 +1,8 @@
-"# learn-github"  
-Cambio desde Github
+# Libro de Github
 
-Cambio desde local
+Esta es la primera parte de un libro de Github.
 
-Otro cambio desde Github
+## Capitulo 01: Como instalar Git.
 
-Y aun otro cambio mas.
+Descarga el instalador de GIT para Windows.
+Una vez que hayas descargado el instalador, haz doble clic sobre el ejecutable para que comience el proceso de instalación y sigue las instrucciones que te aparecerán en pantalla.
