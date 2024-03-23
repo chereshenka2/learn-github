@@ -1,8 +1,3 @@
-"# learn-github"  
-Cambio desde Github
+# Libro de Github
 
-Cambio desde local
-
-Otro cambio desde Github
-
-Y aun otro cambio mas.
+Esto es la primera parte de un libro de Github
